@@ -1,14 +1,16 @@
 {
-  "name": "AFK Bot",
+  "name": "67guy",
   "bot-account": {
     "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "LifeSteal-F8Fg.aternos.me",
+    "port": 32856
+
+,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
